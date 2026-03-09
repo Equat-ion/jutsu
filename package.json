@@ -1,6 +1,6 @@
 {
   "name": "@equat-ion/jutsu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A easy to use script to install skills into your AI Agents",
   "main": "./dist/index.js",
   "type": "module",
