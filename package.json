@@ -1,5 +1,5 @@
 {
-  "name": "jutsu",
+  "name": "@equat-ion/jutsu",
   "version": "1.0.0",
   "description": "A easy to use script to install skills into your AI Agents",
   "main": "./dist/index.js",
